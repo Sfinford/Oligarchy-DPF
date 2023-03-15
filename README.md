@@ -1,0 +1,1 @@
+I spent 2 months making my own card game and then another 2 months making it a reality. You can play it here, there are links to the controls for the DPF (digital playing field) and also the rules for the game in the bottom left on the game, when it finishes loading. Made with TurboWarp.
